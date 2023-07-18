@@ -5,4 +5,4 @@
 https:\/\/translate\.google\.com\/m\?(hl=en&)(tl=zh)&sl=auto&q=(.+) https:\/\/translate\.google\.com\/m\?$2&sl=auto&q=$3 header
 
 [MITM]
-hostname = %APPEND% translate.googl\.com
+hostname = %APPEND% translate.google.com
