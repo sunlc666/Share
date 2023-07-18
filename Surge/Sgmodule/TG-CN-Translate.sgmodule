@@ -1,5 +1,6 @@
 #!name=Nicegram中文自动翻译
 #!desc=临时解决NG中文翻译问题
+#!author= WWWeng🐝
 
 [URL Rewrite]
 https:\/\/translate\.google\.com\/m\?(hl=en&)(tl=zh)&sl=auto&q=(.+) https:\/\/translate\.google\.com\/m\?$2&sl=auto&q=$3 header
