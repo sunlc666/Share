@@ -1,0 +1,8 @@
+#!name=Telegram 中文自动翻译
+#!desc=临时解决TG中文翻译问题
+
+[URL Rewrite]
+https:\/\/translate\.google\.com\/m\?(hl=en&)(tl=zh)&sl=auto&q=(.+) https:\/\/translate\.google\.com\/m\?$2&sl=auto&q=$3 header
+
+[MITM]
+hostname = %APPEND% translate.googl\.com
