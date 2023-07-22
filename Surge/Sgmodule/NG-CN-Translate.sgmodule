@@ -1,5 +1,5 @@
 #!name=Nicegram中文自动翻译
-#!desc=临时解决NG中文翻译问题
+#!desc=临时解决NG点击翻译按钮后不出中文的翻译问题
 #!author= WWWeng🐝
 
 [URL Rewrite]
