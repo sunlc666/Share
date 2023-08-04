@@ -1,7 +1,7 @@
 {
     "name": "AppStore多区价格查询🐝", 
     "id": "12366", 
-    "version": "23.072801", 
+    "version": "23.080401", 
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
-    "notice": ""
+    "notice": "修复问题若干🫰"
   }
