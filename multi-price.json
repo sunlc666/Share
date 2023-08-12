@@ -3,5 +3,5 @@
     "id": "12366", 
     "version": "23.081203", 
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
-    "notice": "修复问题若干🫰"
+    "notice": "新增功能及地区支持，修复问题若干🫰"
   }
