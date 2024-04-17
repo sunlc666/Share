@@ -1,6 +1,6 @@
 {
     "name": "AppStore多区价格查询🐝", 
-    "version": "23.081203", 
+    "version": "24.041701", 
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
     "notice": "①增加了对低价区尼日利亚的支持，并已加入默认查询列表\n②选单界面增加了清空剪切板，方便特殊情况的快捷重输🫰"
   }
