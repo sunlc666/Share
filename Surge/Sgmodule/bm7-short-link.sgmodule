@@ -1,0 +1,7 @@
+#!name=BM7规则短链接
+#!desc=可配合快捷指令使用
+#!author= WWWeng🐝
+
+[URL Rewrite]
+# BM7规则
+^http:\/\/bm7\/(.*).list$ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/$1/$1.list 302
