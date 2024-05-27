@@ -1,8 +1,8 @@
 {
     "name": "AppStore多区价格查询🐝", 
-    "version": "24.051203",
+    "version": "24.052703",
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
     "other": " ",
-    "notice": "①尝试修复国区本体价格同步不及时的问题，如此次的procam8\n②将内置gitlab链接替换为github提升稳定性",
-    "download": "https://www.icloud.com/shortcuts/b7554b5aca144a4eba01910995955184"
+    "notice": "①新增几类查询app时所显示名称的精简\n②修复复制部分mac或者ipad专属应用链接并运行后提示该区未上架的Bug\n③为保持美观性，默认改为不显示地方币，可自行调整为True",
+    "download": "https://www.icloud.com/shortcuts/446cc2ee92fa459383c1f9f3691f5af0"
   }
