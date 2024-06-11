@@ -1,8 +1,8 @@
 {
     "name": "AppStore多区价格查询🐝", 
-    "version": "24.060801",
+    "version": "24.061101",
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
     "other": " ",
-    "notice": "①部分应用本体被改价后价格会有延时，两种价格查询类别无法确保哪种同步更及时，所以加入用户手动切换，默认为1模式(从快捷指令动作获取)，可切换到2模式(从url获取)\n②修复部分应用(如moonlight)在部分区内购价格匹配错误的问题 ",
-    "download": "https://www.icloud.com/shortcuts/c8b0043ec32c40138d5e7c2afb2cb744"
+    "notice": "①修复iOS18只能显示一个国家的内购价格的Bug",
+    "download": "https://www.icloud.com/shortcuts/1831d906ad88452f95d8589503bf2857"
   }
