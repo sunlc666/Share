@@ -1,8 +1,8 @@
 {
     "name": "AppStore多区价格查询🐝", 
-    "version": "24.061101",
+    "version": "24.061202",
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
     "other": " ",
-    "notice": "①修复iOS18只能显示一个国家的内购价格的Bug",
-    "download": "https://www.icloud.com/shortcuts/1831d906ad88452f95d8589503bf2857"
+    "notice": "①修复欧盟、俄罗斯等地区本体价格显示异常问题\n②修复欧盟、俄罗斯等地区内购价格只显示一项的问题\n③注释页预留英文版链接",
+    "download": "https://www.icloud.com/shortcuts/ef2ec739a02547f3bbe1a8704e6f5943"
   }
