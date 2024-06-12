@@ -3,6 +3,6 @@
     "version": "24.061202",
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
     "other": " ",
-    "notice": "①修复欧盟、俄罗斯等地区本体价格显示异常问题\n②修复欧盟、俄罗斯等地区内购价格只显示一项的问题\n③注释页预留英文版链接",
+    "notice": "①修复欧盟、俄罗斯等地区本体价格显示异常问题\n②修复欧盟、俄罗斯等地区内购价格只显示一项的问题\n③注释页内置英文版链接",
     "download": "https://www.icloud.com/shortcuts/0c1a1584ff684927be93f2f3b6f60579"
   }
