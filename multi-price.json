@@ -1,8 +1,8 @@
 {
     "name": "AppStore多区价格查询🐝", 
-    "version": "24.061401",
+    "version": "24.061601",
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
     "other": " ",
-    "notice": "①修复部分应用(如Calendars美区)部分地区内购会多匹配到不相关内容的Bug\n②加入未更新计时，默认为天数计时，可通过设置项调整为显示最后更新时间",
-    "download": "https://www.icloud.com/shortcuts/3981debc47c64ae7a3db2f3a58678bf3"
+    "notice": "①加入主区查询提示，可显示主区本体价格以及查询主区是否有内购，以解决在不知情分享链接的价格情况时选择查询哪个的烦恼，可在首项词典内选择开关这个功能\n②支持临时跳过更新运行，调整更新说明样式",
+    "download": "https://www.icloud.com/shortcuts/fae6ad5601da4c0cbf2a04c41f8d8675"
   }
