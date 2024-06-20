@@ -1,8 +1,8 @@
 {
     "name": "AppStore多区价格查询🐝(en)", 
-    "version": "24.061202",
+    "version": "24.062001",
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
     "other": "",
-    "notice": "AppStore多区价格查询英文系统版，适合国人用",
-    "download": "https://www.icloud.com/shortcuts/570b66cfe84147ddaa56b39ba87dddfa"
-  }
+    "notice": "\n①调整云数据连接，以提高理论处理速度和稳定性。\n②更改了更新指令界面。",
+    "download": "https://www.icloud.com/shortcuts/87781f2d5375461a8bd8062a76685cc5"
+  } 

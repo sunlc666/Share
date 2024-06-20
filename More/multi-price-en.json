@@ -1,8 +1,8 @@
 {
     "name": "Multi-region pricing of the App Store🐝", 
-    "version": "24.061202",
+    "version": "24.062001",
     "url": "https://api.exchangerate-api.com/v4/latest/USD",
     "other": "",
-    "notice": "AppStore多区价格查询英文系统版，适合外国人用",
-    "download": "https://www.icloud.com/shortcuts/54cff4b3cbd7471bbc360a15119ad6ea"
-  }
+    "notice": "\n①Adjusting the cloud data connection to improve the theoretical processing speed and stability.\n②Changed the update instruction interface.",
+    "download": "https://www.icloud.com/shortcuts/427066f840b24c9db4bbc22babbf6b77"
+  } 
