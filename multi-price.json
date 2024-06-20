@@ -1,8 +1,8 @@
 {
     "name": "AppStore多区价格查询🐝", 
-    "version": "24.061601",
+    "version": "24.062002",
     "url": "https://api.exchangerate-api.com/v4/latest/CNY",
-    "other": " ",
-    "notice": "①加入主区查询提示，可显示主区本体价格以及查询主区是否有内购，以解决在不知情分享链接的价格情况时选择查询哪个的烦恼，可在首项词典内选择开关这个功能\n②支持临时跳过更新运行，调整更新说明样式",
-    "download": "https://www.icloud.com/shortcuts/93846ce462e24223b266606c23c7823c"
+    "other": "https://t.me/wwwengshare",
+    "notice": "\n①调整云端数据链接，提升理论运行速度及稳定性\n②加入主、副地区一键切换功能，一般默认不用调整\n③加入App Store以及AppRaven快捷跳转的功能(复制了链接的情况下运行桌面的快捷方式会很实用)\n\n维护不易，觉得还不错的可以给频道点点关注，获取更多捷径及更新情况，地址已复制到剪切板",
+    "download": "https://www.icloud.com/shortcuts/0aa08734a833443bad66e9cc25054fc1"
   }
