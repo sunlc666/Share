@@ -1,0 +1,8 @@
+{
+    "Title": "AppStore多区价格查询🐝", 
+    "version": "24.062002",
+    "url": "https://api.exchangerate-api.com/v4/latest/CNY",
+    "other": "https://t.me/wwwengshare",
+    "notice": "\n①调整云端数据链接，提升理论运行速度及稳定性\n②加入主、副地区一键切换功能，一般默认不用调整\n③加入App Store以及AppRaven快捷跳转的功能(复制了链接的情况下运行桌面的快捷方式会很实用)\n④当首次输入方式为输app名称时剪切板内容转换为app链接，以省去二次运行时的重新选择操作\n\n维护不易，觉得还不错的可以给频道点点关注，获取更多捷径及更新情况，地址已复制到剪切板",
+    "download": "https://www.icloud.com/shortcuts/5e31d1848d7542d3866b65cdea32f87f"
+  }
